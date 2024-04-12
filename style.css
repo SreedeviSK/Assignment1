@@ -1,0 +1,25 @@
+
+.header{
+  background-color: rgb(66, 66, 170);
+  height: 72px;
+  width: 100%;
+}
+.col1{
+  height: 560px;
+  background-color: rgb(77, 189, 77);
+  width: 20%;
+}
+.col2{
+  height: 560px;
+  background-color: rgb(191, 96, 177);
+  width: 80%;
+}
+.footer{
+  background-color: rgb(207, 61, 78);
+  height: 84px;
+  width: 100%;
+}
+.body{
+  display: flex;
+  flex-direction: row;
+}
